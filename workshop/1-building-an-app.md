@@ -6,6 +6,15 @@
 
 - node and npm - already installed
 - ember-cli - already installed (if not, `npm install -g ember-cli`)
+  - to check if it's installed:
+
+  ```
+  mbp:ambitious-arcgis-app-2018 joe$ ember --version
+  ember-cli: 2.18.0
+  node: 6.10.2
+  os: darwin x64
+  mbp:ambitious-arcgis-app-2018 joe$
+   ```
 - Git - already installed on mac, windows users can download https://git-scm.com/download/win
 
 ### Ember new
